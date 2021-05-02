@@ -1,4 +1,4 @@
-# Merhaba, ben Ayşegül!
+# Selamlar, ben Ayşegül!
 <hr/>
 
 <p> Bilgisayarlı görü alanıyla ilgileniyorum.Teknofestte Robotaksi- Otonom Araç ve Eğitim Teknolojileri kategorilerinden yarışmaktayım.Projelerimi ve yaptığım şeyleri burada paylaşacağım.</p>
