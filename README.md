@@ -1,7 +1,7 @@
-# Selamlar, ben Ayşegül!
+# Hi, i'm Ayşegül!
 <hr/>
 
-<p> Bilgisayarlı görü alanıyla ilgileniyorum.Teknofestte Robotaksi- Otonom Araç ve Eğitim Teknolojileri kategorilerinden yarışmaktayım.Projelerimi ve yaptığım şeyleri burada paylaşacağım.</p>
+<p> I am interested in the field of computer vision. I am competing in the categories of Robotaxi-Autonomous Vehicle and Educational Technologies in Technofest. I will share my projects and what I do here.</p>
 
 [Linkedln](https://www.linkedin.com/in/aysegulakbaas/)<br>
 [Medium](https://medium.com/@aysegulakbas)<br>
