@@ -1,5 +1,4 @@
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=aysegulakbas&show_icons=true">
 
 # Hi, i'm Ayşegül 🙋
 
