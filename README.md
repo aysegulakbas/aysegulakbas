@@ -3,7 +3,7 @@
 # Hi, i'm Ayşegül 🙋
 -Interested in AI, ML, image processing and mobile programming,<br /> 
 -Innovative, focused on constantly improving skills and processes,<br /> 
--Planning a career path in the fields of artificial intelligence technologies, Project Management or Mobile Programming.<br /> 
+-Planning a career path in the fields of artificial intelligence technologies and Mobile Programming.<br /> 
 
 Please feel free to get in touch with me for any reason!
 
