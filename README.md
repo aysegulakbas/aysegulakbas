@@ -1,8 +1,11 @@
 
 
 # Hi, i'm Ayşegül 🙋
+-Interested in AI, ML, image processing and mobile programming,
+-Innovative, focused on constantly improving skills and processes,
+-Planning a career path in the fields of artificial intelligence technologies, Project Management or Mobile Programming.
 
-I am interested in the field of computer vision. I am competing in the categories of Robotaxi-Autonomous Vehicle and Educational Technologies in Technofest. I will share my projects and what I do here.
+Please feel free to get in touch with me for any reason!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysegulakbas" alt="aysegulakbas" /> </p>
 
