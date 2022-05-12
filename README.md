@@ -1,9 +1,8 @@
 
 
 # Hi, i'm Ayşegül 🙋
--Interested in AI, ML, image processing and mobile application development,<br /> 
+-Interested Mobile Application development/ iOS Development,<br /> 
 -Innovative, focused on constantly improving skills and processes,<br /> 
--Planning a career path in the fields of artificial intelligence technologies and Mobile Application Development.<br /> 
 
 Please feel free to get in touch with me for any reason!
 
