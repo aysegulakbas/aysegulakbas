@@ -1,7 +1,7 @@
 
 
 # Hi, i'm Ayşegül 🙋
--Interested Mobile Application development/ iOS Development,<br /> 
+-Interested DevOps and Cloud Engineering,<br /> 
 -Innovative, focused on constantly improving skills and processes.<br /> 
 
 Please feel free to get in touch with me for any reason!
