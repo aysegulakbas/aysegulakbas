@@ -1,7 +1,7 @@
 
 
 # Hi, i'm Ayşegül 🙋
--Interested DevOps and Cloud Engineering,<br /> 
+-Interested iOS Development DevOps and Cloud Engineering,<br /> 
 -Innovative, focused on constantly improving skills and processes.<br /> 
 
 Please feel free to get in touch with me for any reason!
