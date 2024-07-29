@@ -2,9 +2,10 @@
 
 # Hi, I'm Ayşegül 🙋
 
- Swift, Objective-C, UIKit, SwiftUI.
+AWS, Azure, Kubernetes, Docker, IAC, Terraform, CI/CD. 
+CNCF KUBERNETES ORGANIZER🖖
 
-🙋 As a versatile Computer Engineer, with my passion for mobile application development, especially on iOS, and my curiosity for the software world allow me to enjoy my job. I am always open to answering questions and collaborating with others in the field. ✌🏻
+🙋 As a versatile Computer Engineer, with my passion for DevOps Engineering, especially on DevOps, and my curiosity for the software and technology world allow me to enjoy my job. I am always open to answering questions and collaborating with others in the field. ✌🏻
 
 Please feel free to get in touch with me for any reason!
 
